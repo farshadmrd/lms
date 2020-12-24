@@ -1,0 +1,305 @@
+* {
+    direction: rtl;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav hr{
+    height: 30px;
+    color: gray;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+img[alt="logo"] {
+    width: 120px;
+    height: 75px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+}
+
+li:first-child {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+nav div {
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+
+
+/*header*/
+
+header {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #eaeff5;
+
+}
+
+header div {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: white;
+}
+#align-self{
+    align-self: flex-start;
+    position: relative;
+}
+#align-self span{
+    display: block;
+    background-color: #004290;
+    color: white;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    left: -30px;
+    top: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+header button{
+    padding: 10px;
+    width: 150px;
+    background-color: #f19005;
+    color: white;
+}
+.relative{
+    position: relative;
+}
+header button{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.margin100px {
+    margin-top: 130px;
+}
+
+header h1,h2,h3{
+    color: #004290;
+}
+/*first*/
+
+
+#first {
+    background-color: #f4f7fc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 300px;
+
+}
+
+#first figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#first figure div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: #c5dfff;
+    border-radius: 50%;
+}
+
+#first figcaption {
+    color: #77aeee;
+    font-size: 20px;
+}
+#first div:hover{
+    background-color: #77aeee;
+}
+
+/*second*/
+
+
+#second {
+    transform: rotate(-5deg);
+    background-color: #77aeee;
+    width: inherit;
+    margin-top: -100px;
+    margin-right: -200px;
+    margin-left: -200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btn-dore {
+    margin-left:70px;
+    transform: rotate(5deg);
+    margin-top: 50px;
+    width: 350px;
+    height: 70px;
+    border: white solid 5px;
+    background-color: #77aeee;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+#second hr {
+    transform: rotate(5deg);
+    width: 1380px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+#second div {
+    transform: rotate(5deg);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+#second img {
+    width: 90%;
+    height: 90%;
+}
+
+#second figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#second figcaption {
+    font-size: 30px;
+    color: white;
+}
+
+
+/*third*/
+
+
+footer {
+    background-color: #f4f7fc;
+    margin-top: -100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+#third {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+    position: relative;
+}
+
+#span-ravesh {
+    display: block;
+    font-size: 30px;
+    color: #004290;
+    border: solid 5px #004290;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+#hr-mid {
+    width: 20px;
+    height: 600px;
+    background-color: #004290;
+    margin-top: 4px;
+}
+
+.circle {
+    position: absolute;
+    top: 100px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: solid 5px white;
+    background-color: #004290;
+}
+
+.flexcenter {
+    display: flex;
+    justify-content: center;
+}
+
+#marhale-aval {
+    width: 300px;
+    position: absolute;
+    top: 100px;
+    right: 220px;
+}
+
+.hrthird {
+    width: 300px;
+    color: #478fe3;
+}
+
+#third h4 {
+    direction: ltr;
+    width: 300px;
+    color: #478fe3
+}
+
+#third h2 {
+    color: #004290;
+}
+
+#third h3 {
+    color: #478fe3
+}
+
+#marhale-dovom {
+    text-align: left;
+    width: 300px;
+    position: absolute;
+    top: 280px;
+    left: 220px;
+}
+
+#marhale-sevom {
+    width: 300px;
+    position: absolute;
+    top: 470px;
+    right: 220px;
+}
+
+#from-top-280 {
+    top: 280px;
+}
+
+#from-top-470 {
+    top: 470px;
+}
+
