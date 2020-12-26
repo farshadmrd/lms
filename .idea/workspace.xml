@@ -2,39 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33772d59-ad50-427c-8ddf-f402c7ca764d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/BYekan.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listdoros.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/brands.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/brands.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/fontawesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/fontawesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/regular.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/regular.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/solid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/solid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/svg-with-js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/svg-with-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/v4-shims.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome-free-5.15.1-web/v4-shims.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -47,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -95,7 +68,14 @@
       <workItem from="1608846765669" duration="4229000" />
       <workItem from="1608863477575" duration="2100000" />
       <workItem from="1608865751157" duration="2437000" />
-      <workItem from="1608877588977" duration="3587000" />
+      <workItem from="1608877588977" duration="8289000" />
+      <workItem from="1608896459236" duration="9179000" />
+      <workItem from="1608948065190" duration="1541000" />
+      <workItem from="1608962148830" duration="11085000" />
+      <workItem from="1608978192921" duration="302000" />
+      <workItem from="1608978812824" duration="979000" />
+      <workItem from="1608980761217" duration="1405000" />
+      <workItem from="1608984180785" duration="9371000" />
     </task>
     <servers />
   </component>
